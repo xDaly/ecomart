@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as Products } from './Products'
+export { default as Profile } from './Profile'
+export { default as SPP } from './SPP'
+export { default as Cart } from './Cart'
+export { default as Shops } from './Shops'
+export { default as MobileSearch } from './MobileSearch'
+export { default as ProductDetail } from './Product-Detail'
